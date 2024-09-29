@@ -100,7 +100,12 @@ int main()
 }
 ```
 ### Output:
-<img width="698" alt="Screenshot 2024-09-10 at 4 06 55 PM" src="https://github.com/user-attachments/assets/d54c4376-0acf-467d-be9e-22bca78bc0e0">
+No parameter passed: 
+Area: 2.76
+Two parameters passed: 
+Area: 52.26
+One parameter passed: 
+Area: 40.95
 
 
 ## Conclusion:
